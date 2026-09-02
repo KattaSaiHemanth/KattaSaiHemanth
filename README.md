@@ -44,5 +44,6 @@ Entry-level opportunities in:
 
 🔗 Connect With Me
 
+- Email: saikatta217@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sai-hemanth-k/
 - GitHub: https://github.com/KattaSaiHemanth
