@@ -28,6 +28,14 @@ Built a multi-page Power BI dashboard to analyze global sales and profitability 
 
 Tools: Power BI, DAX, Power Query
 
+🚚 Delivery Operations & SLA Monitoring Dashboard
+
+Analyzed 9,340 operational cases and built a 3-page Power BI dashboard to monitor SLA compliance, SLA breaches, resolution time, quality scores, productivity, and escalation performance across regions, issue types, priorities, and assigned teams.
+
+Developed DAX measures for key operational KPIs and used Power Query and Excel for data preparation and analysis.
+
+Tools: Power BI, DAX, Power Query, Excel
+
 🏏 IPL Performance Analysis
 
 Analyzed 260,000+ IPL records using MySQL and advanced SQL techniques including joins, CTEs, and window functions to evaluate player and team performance.
